@@ -7,3 +7,5 @@ Section one content - hit
 ![](download.jpeg)
 
 ![](assets/download (1).jpeg)![](golden.jpeg)
+
+![](assets/download (1).jpeg)
