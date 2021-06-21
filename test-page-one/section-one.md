@@ -7,3 +7,5 @@ Section one content - hit
 ![](assets/lanscape.jpg)
 
 ![](download.jpeg)
+
+![](assets/dog.jpg)![](download.jpeg)
