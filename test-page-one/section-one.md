@@ -2,4 +2,4 @@
 
 Section one content
 
-![Dog](dog.jpg)
+![Dog](/assets/dog.jpg)
