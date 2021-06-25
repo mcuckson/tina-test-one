@@ -1,6 +1,6 @@
 # Test Page One
 
-Section one content - hit
+Section one content - hello
 
 ![Dog](/assets/dog.jpg)
 
